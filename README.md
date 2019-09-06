@@ -15,6 +15,8 @@ See below for my portfolio!
 
 <iframe title="Is It Corbyn's Party or the Labour Party?" aria-label="Bar Chart" id="datawrapper-chart-my5x5" src="//datawrapper.dwcdn.net/my5x5/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="460"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();</script>
 
+Compare to The Economist's original article here: https://www.economist.com/britain/2016/08/13/the-metamorphosis
+
 # Week 2 Tutorial: RAWgraphs Alluvial Diagram
 ## How did class, gender, and boat number impact the survival rate for passengers on the Titanic?
 
