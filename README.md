@@ -8,7 +8,7 @@ My name is Shannon Kirk (she/her), and I am a first-year student in the MEIM (Ma
 I hope to build a toolkit for visualizing data in a compelling way. There is often so much data available, especially in the digital media and entertainment space, that the true message of the data can easily be obscured. By cutting through the noise and designing purposeful visualizations, I hope to aid more informed decision-making.
 
 # Portfolio
-See below for my (soon-to-come) portfolio!
+See below for my portfolio!
 
 # Week 2 Tutorial: RAWgraphs Alluvial Diagram
 ## How did class, gender, and boat number impact the survival rate for passengers on the Titanic?
