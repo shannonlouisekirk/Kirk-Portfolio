@@ -28,4 +28,4 @@ Alluvial graph sourced using sample data from RAWgraphs.io.
 
 # Week 3
 
-To take a look at the OECD Data Visualizations, [go this page!](/OECD-Data-Visualizations.md)
+To take a look at the OECD Data Visualizations, [go to this page!](/OECD-Data-Visualizations.md)
