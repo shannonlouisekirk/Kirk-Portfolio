@@ -13,6 +13,7 @@ When I created my first wireframe, I started to uncover some oddities in the dat
 Not off to a great start here. This person thought that each stacked bar, meant to represent a year, was a different movie. I then asked the question:
 
 *Can you describe to me what this is telling you?"
+
 "Oh, each of them is years. OK, so this is telling me that the higher the percentage of minorities, the more money it makes"*
 
 This is generally the idea the original visualization was attempting to get across, but it is actually not entirely truthful, nor is it what my visualization actually shows. In fact, there was not a single year in the data set where the highest minority cast share group also had the highest Global Box Office.
@@ -20,9 +21,14 @@ This is generally the idea the original visualization was attempting to get acro
 *Anything you find surprising or confusing?* (I had a lot to work with here. My first wireframe remained very confusing.)
 
 *"2013 didn't have as many minorities...oh wait that's 2015...." 
+
 "It's surprising that 2016 & 2017 had more minorities therefore giving the highest revenue when 2015 was so low"
+
 "Is this including every single movie made in 2016?"* This tells me I need to define my data set and its scope more clearly.
 *"What are the numbers [in the boxes] for? Is that the number of movies?"* I originally thought putting the revenue values in the stacked bar chart would help clarify the relative change, but it definitely confused my observers. This also indicated to me that they were not understanding what the "median" meant in the title and axes. If they had, and they had deduced that the y-axis was showing median GBO revenue, they would likely not have been confused by this.
 *"I'm not sure what the percent is of"* This was referring to the category key at the bottom of the wire frame. Even though the title says "Minority Cast Share" I realized that is not a universally recognized phrase through this comment. The next iteration needs to account for this somehow, either by adjusting the categories or including a definition of "minority cast share."
 *Who is the intended audience?
 "One could be investors to films...or I guess producers possibly...and the other could be film studios."* I seem to have at least communicated the intended audience well!
+
+*Is there anything you would like to change?
+"it's hard to tell the difference between the colors."
