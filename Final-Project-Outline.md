@@ -30,6 +30,8 @@ If is not too laborious, I can potentially still include some diversity aspect t
 I used the same sketch for last week's critique by redesign, but as I used the same data set, I thought I should include it here as well.
 ![IMG_1356](https://user-images.githubusercontent.com/54897462/65694186-6e54e980-e043-11e9-8fef-cd7916689535.jpg)
 ![IMG_1357](https://user-images.githubusercontent.com/54897462/65694348-b542df00-e043-11e9-97f4-61dc91518990.jpg)
+![IMG_1358](https://user-images.githubusercontent.com/54897462/65694419-d5729e00-e043-11e9-915a-e27418c5e638.jpg)
+
 
 
 ### Method and Medium
