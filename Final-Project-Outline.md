@@ -26,7 +26,10 @@ If is not too laborious, I can potentially still include some diversity aspect t
 ### Sketches
 
 ![Median Box Office by Minority Share](/https://user-images.githubusercontent.com/54897462/65654738-c9f18980-dfe7-11e9-804e-25923674e38f.jpg)
+
 I used the same sketch for last week's critique by redesign, but as I used the same data set, I thought I should include it here as well.
+![IMG_1356](https://user-images.githubusercontent.com/54897462/65694186-6e54e980-e043-11e9-8fef-cd7916689535.jpg)
+
 
 ### Method and Medium
 #### Method
