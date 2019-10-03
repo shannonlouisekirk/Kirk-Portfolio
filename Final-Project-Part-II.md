@@ -17,7 +17,7 @@ The initial story board I sketched and showed to my user group is below.
 The target audience for this project is people interested in the film industry, or people generally familiar with award-winning films,  directors, and smaller-budget movies.
 
 #### Approach to Identify Individuals to Interview
-In order to select from a group of people who already have the vocabulary and familiarity with the film industry, I sent a message to all members of the MEIM program at Heinz, requesting volunteers for user feedback sessions. I interviewed the first four people who replied.  This was my best approximation at creating a random sample of people who self-identify as both interested in the industry and familiar with award winners.  
+In order to select from a group of people who already have the vocabulary and familiarity with the film industry, I sent a message to all members of the MEIM program at Heinz, requesting volunteers for user feedback sessions. I interviewed the first three people who replied.  This was my best approximation at creating a random sample of people who self-identify as both interested in the industry and familiar with award winners.  
 
 #### Interview Script
 After a brief walk-through of the storyboards and sketches, I asked interviewees the following questions:
