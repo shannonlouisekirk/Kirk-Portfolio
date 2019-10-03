@@ -78,5 +78,7 @@ From the user feedback, I found that I had communicated the intended audience cl
 
 All the respondents indicated that they would like to see not just best picture, director, and acting category nominations, but they would like to see all Oscar nominations. While it is useful to examine some other nominations, I do not plan to go into them in as in-depth a manner as I did for those three categories. To satisfy user-expressed curiosity, I will collect the data to include aggregated nominations for every film.
 
-One user expressed that she was confused at the transitions between the sections of case studies and themes. I still need to think about the best way to make these transitions. 
+One user expressed that she was confused at the transitions between the sections of case studies and themes. I still need to think about the best way to make these transitions flow more smoothly and logically in the final presentation.
+
+I also found that some of the data visualizations I chose (like the unit chart representing female directors) was not commonly understood or intuitive, and it took users some time to understand what that chart represented. One user, in fact, never came to the understanding what that chart meant. I need to rework several of the charts and then get more user feedback to ensure they are more intuitive and do not require extra explanations.
 
