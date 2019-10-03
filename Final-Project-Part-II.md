@@ -67,9 +67,6 @@ From these interview questions, I received the following user feedback:
 
 About the female directors at the Oscars sketch: "I'm guessing the pink points are where they won or somehting? I don't understand what these are. Are there five female directors at the oscars a year? Are there more? I don't understand what the dots mean. Is it the number of female directors, and is it how successful they were? What does this have to do with being successful and having a passion project?"
 
-
-#### Changes Implemented
-
 ### Data Visualizations and Sketches
 
 ### Opportunities for Improvement
