@@ -74,3 +74,5 @@ About the female directors at the Oscars sketch: "I'm guessing the pink points a
 
 ### Opportunities for Improvement
 
+From the user feedback, I found that I had communicated the intended audience clearly. Even having identified the audience clearly, though, two of the three users I interviewed did not know all of the acronyms I used, nor did they know all of the directors I used as examples in my case studies. I will be sure to include more definitions and context in my final project. This will improve clarity, but it will also serve to make this project more accessible to people who are interested in the film or entertainment industry, but do not have the background to understand the project in full.  
+
