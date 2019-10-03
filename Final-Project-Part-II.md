@@ -3,6 +3,11 @@
 
 ### Storyboards and Wireframes
 
+The initial story board I sketched and showed to my user group is below. 
+
+![IMG-1374](https://user-images.githubusercontent.com/54897462/66157154-26a90180-e5f1-11e9-8629-f16f53c2f854.JPG)
+
+
 ### Mood Board
 
 [TSWD Mood Board.pdf](https://github.com/shannonlouisekirk/Kirk-Portfolio/files/3685728/TSWD.Mood.Board.pdf)
