@@ -63,7 +63,7 @@ From these interview questions, I received the following user feedback:
 
 *Other Questions or Comments*
 
-"So would avatar be in the Titanic category? I don't understand why you brought that in here or how those are related. Also, is this only for Best Picture? Or is this for all Oscar nominations? Because I think Avatar won something."
+"So would Avatar be in the Titanic category? I don't understand why you brought that in here or how those are related. Also, is this only for Best Picture? Or is this for all Oscar nominations? Because I think Avatar won something."
 
 About the female directors at the Oscars sketch: "I'm guessing the pink points are where they won or somehting? I don't understand what these are. Are there five female directors at the oscars a year? Are there more? I don't understand what the dots mean. Is it the number of female directors, and is it how successful they were? What does this have to do with being successful and having a passion project?"
 
@@ -74,5 +74,9 @@ About the female directors at the Oscars sketch: "I'm guessing the pink points a
 
 ### Opportunities for Improvement
 
-From the user feedback, I found that I had communicated the intended audience clearly. Even having identified the audience clearly, though, two of the three users I interviewed did not know all of the acronyms I used, nor did they know all of the directors I used as examples in my case studies. I will be sure to include more definitions and context in my final project. This will improve clarity, but it will also serve to make this project more accessible to people who are interested in the film or entertainment industry, but do not have the background to understand the project in full.  
+From the user feedback, I found that I had communicated the intended audience clearly. Even having identified the audience clearly, though, two of the three users I interviewed did not know all of the acronyms I used, nor did they know all of the directors I used as examples in my case studies. I will be sure to include more definitions and context in my final project. This will improve clarity, but it will also serve to make this project more accessible to people who are interested in the film or entertainment industry, but do not have the background to understand the project in full.
+
+All the respondents indicated that they would like to see not just best picture, director, and acting category nominations, but they would like to see all Oscar nominations. While it is useful to examine some other nominations, I do not plan to go into them in as in-depth a manner as I did for those three categories. To satisfy user-expressed curiosity, I will collect the data to include aggregated nominations for every film.
+
+One user expressed that she was confused at the transitions between the sections of case studies and themes. I still need to think about the best way to make these transitions. 
 
