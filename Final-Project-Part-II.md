@@ -27,6 +27,42 @@ After a brief walk-through of the storyboards and sketches, I asked interviewees
 
 From these interview questions, I received the following user feedback:
 
+*Interests and What You Would Like to Know More About:*
+
+"The studios responding to GBO stuff is interesting...I think it's very interesting to consider. Maybe break down the global market and talk about how the china BO is skewing towards them"
+
+"I think it would be a good way to show other nominees - not just best picture - to see more of the picture of the story to see if there is any additional information?"
+
+"Yeah, this whole how influential has it been to those people pursuing passion projects. I would like to hear more about that."
+
+*Confusing Pieces*
+
+"I did not realize that the Oscars sketch was just for Best Picture, so maybe make that more clear?"
+
+"I do not know what GBO stands for. Gross box office?"
+
+"I was confused when you went into the case studies and then started talking about something else. Maybe better or more clear transitions for each of the case studies and then back out of the case studies?"
+
+
+*In Your Own Words, What Does This Accomplish?*
+
+"I think it accomplishes the merits of what success means. I find this interesting, because it's definitely something that people consider when they are interested in a career - how do we measure success?"
+
+"Success in the box office does not change how the awards shows choose their nominees."
+
+*Intended Audience*
+
+"Cinephiles. Aspiring entertainment industry professionals. Or hobbyists."
+
+"I think it's a person that does have some knowledge of film. Like me maybe? Because I think most people don't know what box office is or care about directors."
+
+*Other Questions or Comments*
+
+"So would avatar be in the Titanic category? I don't understand why you brought that in here or how those are related. Also, is this only for Best Picture? Or is this for all Oscar nominations? Because I think Avatar won something."
+
+About the female directors at the Oscars sketch: "I'm guessing the pink points are where they won or somehting? I don't understand what these are. Are there five female directors at the oscars a year? Are there more? I don't understand what the dots mean. Is it the number of female directors, and is it how successful they were? What does this have to do with being successful and having a passion project?"
+
+
 #### Changes Implemented
 
 ### Data Visualizations and Sketches
