@@ -26,3 +26,7 @@ Sketches I drew initially that are relevant to my final project outcome are belo
 ![IMG_1356](https://user-images.githubusercontent.com/54897462/65694186-6e54e980-e043-11e9-8fef-cd7916689535.jpg)
 ![female_directors_sketch](https://user-images.githubusercontent.com/54897462/66715942-20581980-ed97-11e9-8d32-5da4cb6c6724.jpg)
 
+### The Data
+
+The data files that I compiled and used for the final project can be found [here for the Box Office data](/Box Office Data.xlsx) and [here for the Oscars data.](/Oscars Data.xlsx)
+
