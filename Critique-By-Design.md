@@ -31,4 +31,6 @@ This is generally the idea the original visualization was attempting to get acro
 "One could be investors to films...or I guess producers possibly...and the other could be film studios."* I seem to have at least communicated the intended audience well!
 
 *Is there anything you would like to change?
-"it's hard to tell the difference between the colors."
+"It's hard to tell the difference between the colors."*
+
+[Back to Shannon's main portfolio page.](/Kirk-Portfolio)
