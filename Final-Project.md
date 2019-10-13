@@ -28,7 +28,29 @@ Sketches I drew initially that are relevant to my final project outcome are belo
 
 ### The Data
 
-The data files that I compiled and used for the final project can be found [here for the Box Office data](/Box Office Data.xlsx) and [here for the Oscars data.](/Oscars Data.xlsx)
+The data files that I compiled and used for the final project can be found here 
+for box office data: https://shannonlouisekirk.github.io/Kirk-Portfolio/Box Office Data.xlsx
+for Oscars data: https://shannonlouisekirk.github.io/Kirk-Portfolio/Oscars Data.xlsx
+
+If you are unable to access the data through GitHub, you can view them here: https://cmu.box.com/s/8tnr89kwm1h9s4aby63727kxe7y4q794
+
+I compiled all of the box office data using https://www.boxofficemojo.com/, and I compiled all Oscars data using https://www.imdb.com/. Both of these data source did require that I do a good amount of manual work to join the data, ensure that the movies were being reported the same way (for example, Beauty & the Beast vs Beauty and the Beast). The Oscars data in particular was very manual. To match directors with their films, I essentially just had to search IMDb and manually type in the values. Similarly, to create the binary identifications for male/female director and to create the binary distinctions for nominated for Best Picture/Best Director, I had to manually evaluate each observation and assign the appropriate value.
+
+### Method and Medium
+
+#### Method
+
+My method generally followed asking the following questions:
+
+1. *Can I point to examples of box office success vs critical success in a clear way so the audience understands the general idea?"*
+2. *Are there any outstanding points in the data that are worth noting?*
+3. *Is there a compelling story behind any of these individual observations?*
+4. *Female representation behind the camera in Hollywood is widely recognized to be poor. Are there new ways to think about this that sheds light on the state of representation and where there is most obviously room for improvement?*
+5. *Is either box office success or critical success more favorable to female directors, or are they equally poorly represented in each?*
+
+### Medium
+
+As noted in the above link to the final project, I used Shorthand as the medium.
 
 
 
