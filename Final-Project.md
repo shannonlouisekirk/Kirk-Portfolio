@@ -30,3 +30,5 @@ Sketches I drew initially that are relevant to my final project outcome are belo
 
 The data files that I compiled and used for the final project can be found [here for the Box Office data](/Box Office Data.xlsx) and [here for the Oscars data.](/Oscars Data.xlsx)
 
+
+
