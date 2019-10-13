@@ -166,3 +166,5 @@ A few other quick lessons from design decisions I made:
 4. Public source images are difficult to find, especially for celebrity/awards show photos. Also, Getty images is a fickle supplier of images! I had filtered their results to only embeddable and publicly accessible content when selecting my photos, following the instructions for how to embed and cite properly. All of the images were visible on my version of the project (and still are), but when I presented in front of the class, the image indicated that the URL was invalid. If I did it again, I would try to source photos from a different source to avoid this headache.
 
 I think that covers it! Thank you so much for reading through my behind-the-scenes look at how I approached this project and what I learned from it. If you have any questions or would like to hear more, please reach out to me at skirk@andrew.cmu.edu.
+
+[Back to Shannon's main portfolio page](/Kirk-Portfolio)
