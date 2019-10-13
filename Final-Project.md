@@ -5,4 +5,7 @@ The final project can be accessed here: <a/> https://carnegiemellon.shorthandsto
 
 ## Part I: The Project Outline
 
+My original project outline had a different topic and scope, but it informed the direction I ultimately decided to go with my project. To view my original project outline, see [here.](/Final-Project-Outline.md)
+
+
 
