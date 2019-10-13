@@ -3,7 +3,7 @@
 
 The final project can be accessed here: <a/> https://carnegiemellon.shorthandstories.com/shannonkirk/index.html <a/>
 
-## Part I: The Project Outline
+## Part I: The Project Proposal and Outline
 
 My original project outline had a different topic and scope, but it informed the direction I ultimately decided to go with my project. To view my original project outline, see [here.](/Final-Project-Outline.md)
 
@@ -48,9 +48,14 @@ My method generally followed asking the following questions:
 4. *Female representation behind the camera in Hollywood is widely recognized to be poor. Are there new ways to think about this that sheds light on the state of representation and where there is most obviously room for improvement?*
 5. *Is either box office success or critical success more favorable to female directors, or are they equally poorly represented in each?*
 
-### Medium
+#### Medium
 
 As noted in the above link to the final project, I used Shorthand as the medium.
+
+## Part II: Wireframes, Storyboards, Moodboards, and User Research
+
+By the time I had arrived at Part II, I had shifted to closer to what the final project ended up representing. For the original submission of Part II, see [here](/Final-Project-Part-II.md)
+
 
 
 
