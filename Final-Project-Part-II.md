@@ -79,3 +79,5 @@ One user expressed that she was confused at the transitions between the sections
 
 I also found that some of the data visualizations I chose (like the unit chart representing female directors) was not commonly understood or intuitive, and it took users some time to understand what that chart represented. One user, in fact, never came to the understanding what that chart meant. I need to rework several of the charts and then get more user feedback to ensure they are more intuitive and do not require extra explanations.
 
+[Back to Shannon's main portfolio page](/Kirk-Portfolio.md)
+
