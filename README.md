@@ -29,3 +29,19 @@ Alluvial graph sourced using sample data from RAWgraphs.io.
 # Week 3
 
 To take a look at the OECD Data Visualizations, [go to this page!](/OECD-Data-Visualizations.md)
+
+# Week 4
+
+To view my Critique by Design, [go to this page!](/Critique-By-Design.md)
+
+# Weeks 5-7: Final Project
+
+The final project for Telling Stories with Data was completed over multiple weeks.
+## Initial Project Proposal and Outline
+The initial proposal for the project can be found [here.](/Final-Project-Outline)
+
+## Storyboards, Mood Boards, and User Feedback
+Information regarding process, storyboarding, and initial design intent can be found [here.](/Final-Project-Part-II)
+
+## The Final Deliverable
+The outline of the entire project and a link to the project itself can be found [here.](/Final-Project)
