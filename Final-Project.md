@@ -24,5 +24,4 @@ For a more sketches of where I was originally headed, again, feel free to view [
 Sketches I drew initially that are relevant to my final project outcome are below.
 
 ![IMG_1356](https://user-images.githubusercontent.com/54897462/65694186-6e54e980-e043-11e9-8fef-cd7916689535.jpg)
-![IMG_1357](https://user-images.githubusercontent.com/54897462/65694348-b542df00-e043-11e9-97f4-61dc91518990.jpg)
 ![IMG_1358](https://user-images.githubusercontent.com/54897462/65694419-d5729e00-e043-11e9-915a-e27418c5e638.jpg)
