@@ -140,3 +140,17 @@ This left me with the final storyboard you see here. Please excuse the fact that
 
 ![IMG_1397](https://user-images.githubusercontent.com/54897462/66716697-c1969e00-ed9e-11e9-9188-c5b0e00ae5aa.jpg)
 
+## Part III: The Final Deliverable
+
+So that you do not need to scroll to the top again, a link to the final project on Shorthand can be found here: <a/> https://carnegiemellon.shorthandstories.com/shannonkirk/index.html <a/>
+
+### Intended Audience
+
+As I mentioned previously, I am really happy that we did user feedback in class, as it helped me establish my true intended audience. It was certainly helpful to get user feedback from other MEIM students who are very interested in the material, but some of the questions I asked, namely "What interests you?" and "Is there anything you would like to know more about?" were a bit too open-ended for enthusiasts. Making the questions more specific would probably have been leading them too much, but the responses really showed more about their particular interests than it provided useful feedback for where my project should go. The TSWD class, on the other hand, demonstrated real interest in the topic, which I was not expecting. They seemed most interested in the Kathryn Bigelow story, and that also happened to provide a frame for a call to action that would be most effective if I were able to get the largest audience for the project. Ultimately, I decided that the audience was anyone who goes to the movies.
+
+By deciding to widen my intended audience, other aspects of the project came into place more clearly. For example, I changed how I had envisioned the tone of the paragraphs surrounding the data visualizations to make it lighter, accommodating an audience that does not take movie-going too seriously. I also highlighted movies in the data visualizations themselves that I thought more people would find more recognizable. In the scatter plot, for example, I labeled the outliers in both awards won and box office by default, but I also labeled *Moonlight* and *La La Land,* as the debacle around the awards that year had wide interest.
+
+Finally, the wider audience allowed me to have a more actionable, for lack of a better word, call to action. I identified five specific movies that were a) directed by women and b) produced by a major studio, and therefore have wide releases. These should all be accessible to people who generally go to the movies and care about how their purchasing power impacts what content is being produced and by whom.
+
+### Work I Have Done So Far
+
