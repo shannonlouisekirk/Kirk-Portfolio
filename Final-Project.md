@@ -138,3 +138,5 @@ One user expressed that she was confused at the transitions between the sections
 
 This left me with the final storyboard you see here. Please excuse the fact that this was clearly my working document, as you can see I have crossed out items as I went along.
 
+![IMG_1397](https://user-images.githubusercontent.com/54897462/66716697-c1969e00-ed9e-11e9-9188-c5b0e00ae5aa.jpg)
+
