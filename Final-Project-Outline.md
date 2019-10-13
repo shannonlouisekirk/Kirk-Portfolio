@@ -50,3 +50,5 @@ My method will largely follow the outline of the questions I have listed above, 
 
 #### Medium
 I plan to use Shorthand, and I have put some of the information from this Github page in Shorthand to see how the platform functioned. You can see the preview for that page [here](/https://preview.shorthand.com/66xcmpJivtZpmUiL).
+
+[Back to Shannon's main portfolio page](/Kirk-Portfolio)
