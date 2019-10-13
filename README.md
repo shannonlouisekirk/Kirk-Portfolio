@@ -38,7 +38,7 @@ To view my Critique by Design, [go to this page!](/Critique-By-Design.md)
 
 The final project for Telling Stories with Data was completed over multiple weeks.
 ## Initial Project Proposal and Outline
-The initial proposal for the project can be found [here.](/Final-Project-Outline.md)
+The initial proposal for the project can be found [here.](/Kirk-Portfolio/Final-Project-Outline.md)
 
 ## Storyboards, Mood Boards, and User Feedback
 Information regarding process, storyboarding, and initial design intent can be found [here.](/Final-Project-Part-II.md)
